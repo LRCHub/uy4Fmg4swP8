@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "the WALL（feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク）",
+  "base_artist": "Leo/need",
+  "createdAt": "2025-12-25T14:29:11.131676Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "the WALL (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)",
+      "artist": "Leo/need feat. 星乃一歌, 天馬咲希, 望月穂波, 日野森志歩 & Hatsune Miku",
+      "has_synced": true,
+      "path": "select/01_the_WALL_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)_Leo_need_feat._星乃一歌,_天馬咲希,_望月穂波,_日野森志歩_&_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "the song they played (when i crashed into the wall) (feat. Lil Tracy)",
+      "artist": "Lil Peep",
+      "has_synced": true,
+      "path": "select/02_the_song_they_played_(when_i_crashed_into_the_wall)_(feat._Lil_Tracy)_Lil_Peep.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Off the Wall (feat. Lil' Cease)",
+      "artist": "Lil' Kim feat. Lil' Cease",
+      "has_synced": true,
+      "path": "select/03_Off_the_Wall_(feat._Lil'_Cease)_Lil'_Kim_feat._Lil'_Cease.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Up On The Wall (feat. Problem, Ty Dolla $ign & YG)",
+      "artist": "The Game feat. Problem, Ty Dolla $ign & YG",
+      "has_synced": true,
+      "path": "select/04_Up_On_The_Wall_(feat._Problem,_Ty_Dolla_$ign_&_YG)_The_Game_feat._Problem,_Ty_Dolla_$ign_&_YG.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Up On The Wall (feat. Problem, Ty Dolla $ign & YG)",
+      "artist": "The Game",
+      "has_synced": true,
+      "path": "select/05_Up_On_The_Wall_(feat._Problem,_Ty_Dolla_$ign_&_YG)_The_Game.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Off The Wall Feat. Redman (From The \"Nutty Professor Ii: The Klumps\" Soundtrack)",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/06_Off_The_Wall_Feat._Redman_(From_The__Nutty_Professor_Ii__The_Klumps__Soundtrack)_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Writing on the Wall (feat. Post Malone, Cardi B & Rvssian)",
+      "artist": "French Montana feat. Post Malone, Cardi B & Rvssian",
+      "has_synced": true,
+      "path": "select/07_Writing_on_the_Wall_(feat._Post_Malone,_Cardi_B_&_Rvssian)_French_Montana_feat._Post_Malone,_Cardi_B_&_Rvssian.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Writing on the Wall feat. Post Malone,Cardi B & Rvssian",
+      "artist": "French Montana",
+      "has_synced": true,
+      "path": "select/08_Writing_on_the_Wall_feat._Post_Malone,Cardi_B_&_Rvssian_French_Montana.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Song They Played (When I Crashed into the Wall) [feat. Lil Tracy]",
+      "artist": "Lil Peep feat. Lil Tracy",
+      "has_synced": true,
+      "path": "select/09_The_Song_They_Played_(When_I_Crashed_into_the_Wall)_[feat._Lil_Tracy]_Lil_Peep_feat._Lil_Tracy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Off the Wall! (feat. Ski Mask The Slump God)",
+      "artist": "XXXTENTACION",
+      "has_synced": true,
+      "path": "select/10_Off_the_Wall!_(feat._Ski_Mask_The_Slump_God)_XXXTENTACION.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bouncin' Back (Bumpin' Me Against the Wall) (feat. Pharrell Williams) (Extended Version)",
+      "artist": "Mystikal",
+      "has_synced": true,
+      "path": "select/11_Bouncin'_Back_(Bumpin'_Me_Against_the_Wall)_(feat._Pharrell_Williams)_(Extended__Mystikal.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Balls To The Wall [Feat. Udo Dirkschneider]",
+      "artist": "Doro",
+      "has_synced": true,
+      "path": "select/12_Balls_To_The_Wall_[Feat._Udo_Dirkschneider]_Doro.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Handwriting on the Wall [feat. Ras Kass]",
+      "artist": "RZA",
+      "has_synced": false,
+      "path": "select/13_Handwriting_on_the_Wall_[feat._Ras_Kass]_RZA.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Wall (feat. Chris Hardnett & Baby B.)",
+      "artist": "Bone Crusher",
+      "has_synced": false,
+      "path": "select/14_The_Wall_(feat._Chris_Hardnett_&_Baby_B.)_Bone_Crusher.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Off the Wall (feat. Lil' Cease)",
+      "artist": "Lil' Kim",
+      "has_synced": false,
+      "path": "select/15_Off_the_Wall_(feat._Lil'_Cease)_Lil'_Kim.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Watcher of the Wall (feat. Oscar Lolang)",
+      "artist": ".Feast",
+      "has_synced": false,
+      "path": "select/16_Watcher_of_the_Wall_(feat._Oscar_Lolang)_.Feast.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Fly on the Wall (feat. Busta Rhymes & Macy Gray)",
+      "artist": "Jay Rock, Busta Rhymes & Macy Gray",
+      "has_synced": true,
+      "path": "select/17_Fly_on_the_Wall_(feat._Busta_Rhymes_&_Macy_Gray)_Jay_Rock,_Busta_Rhymes_&_Macy_Gray.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Fly on the Wall (feat. Busta Rhymes & Macy Gray)",
+      "artist": "Jay Rock",
+      "has_synced": true,
+      "path": "select/18_Fly_on_the_Wall_(feat._Busta_Rhymes_&_Macy_Gray)_Jay_Rock.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Back Against the Wall (feat. Master P)",
+      "artist": "E-40",
+      "has_synced": false,
+      "path": "select/19_Back_Against_the_Wall_(feat._Master_P)_E-40.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Behind the Wall (feat. Kalyanka & Ghostown)",
+      "artist": "Degiheugi feat. Kalyanka & Ghostown",
+      "has_synced": false,
+      "path": "select/20_Behind_the_Wall_(feat._Kalyanka_&_Ghostown)_Degiheugi_feat._Kalyanka_&_Ghostown.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "the WALL (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)",
+      "artist": "Leo/need",
+      "has_synced": false,
+      "path": "select/pl_01_the_WALL_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)_Leo_need.txt"
+    }
+  ]
+}
